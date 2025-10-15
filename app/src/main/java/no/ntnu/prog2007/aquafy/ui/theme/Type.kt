@@ -1,4 +1,4 @@
-package com.example.ui.theme
+package no.ntnu.prog2007.aquafy.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

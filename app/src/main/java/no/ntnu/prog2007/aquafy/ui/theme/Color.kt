@@ -1,4 +1,5 @@
-package com.example.compose
+package no.ntnu.prog2007.aquafy.ui.theme
+
 import androidx.compose.ui.graphics.Color
 
 val primaryLight = Color(0xFF006878)
