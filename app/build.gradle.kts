@@ -5,8 +5,7 @@ plugins {
 
 android {
     namespace = "no.ntnu.prog2007.aquafy"
-
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "no.ntnu.prog2007.aquafy"
